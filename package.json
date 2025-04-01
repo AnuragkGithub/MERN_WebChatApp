@@ -1,7 +1,7 @@
 {
 	"name": "chat-app-yt",
 	"version": "1.0.0",
-	"description": "![Demo App](https://i.ibb.co/fXmZdnz/Screenshot-10.png)",
+	"description": "",
 	"main": "server.js",
 	"scripts": {
 		"server": "nodemon backend/server.js"
